@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.8",
-    "btch-downloader": "^1.0.0"
+    "btch-downloader": "latest"
   },
   "scripts": {
     "start": "node index.js"
