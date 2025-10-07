@@ -1,0 +1,15 @@
+{
+  "name": "Itachi-downloader-api",
+  "version": "1.0.0",
+  "description": "Itachi API for downloading from YouTube, TikTok, Facebook, Instagram, MediaFire, CapCut, Google Drive, and Pinterest.",
+  "main": "index.js",
+  "author": "ItachiInx1de",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "btch-downloader": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
